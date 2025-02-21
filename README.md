@@ -8,7 +8,7 @@
 ## 🛠️ About Me  
 🔭 Currently working on **Data Science & AI**  
 👨‍💻 Explore my projects: [GitHub Profile](https://github.com/Sujal9079)  
-📄 Know my experiences: [Resume](https://drive.google.com/file/d/1Ffsym1zT_mT2bFQlCNdh6dm4xYVQ9bdG/view?usp=sharing)  
+📄 Know my experiences: [Resume](https://drive.google.com/file/d/1vysqijMoStFMKwDUDOQ32tDvQ64Bq00z/view?usp=drive_link)  
 📫 Reach out: **sujalkumar1331@gmail.com**  
 
 ---
