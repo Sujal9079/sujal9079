@@ -14,8 +14,8 @@
 ---
 
 ## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/sujal-kumar" target="_blank">
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/sujal-kumar-0571b0270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://codeforces.com/profile/sujal_9079" target="_blank">
